@@ -1,0 +1,49 @@
+@"
+# Dependencies
+node_modules/
+dist/
+dist-ssr/
+
+# Tauri
+src-tauri/target/
+
+# Environment variables (IMPORTANT!)
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build files
+*.exe
+*.dmg
+*.app
+*.deb
+*.rpm
+*.AppImage
+
+# OS
+Thumbs.db
+
+# Tauri build
+src-tauri/target/
+src-tauri/Cargo.lock
+"@ | Out-File -FilePath .gitignore -Encoding utf8
