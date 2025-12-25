@@ -1,5 +1,7 @@
 text
 # 🎤 Voice to Text - AI-Powered Transcription App
+<img width="1919" height="870" alt="Screenshot 2025-12-25 115520" src="https://github.com/user-attachments/assets/25023ed0-8bea-4b10-b435-732e586b4a1b" />
+
 
 <div align="center">
 
@@ -45,13 +47,15 @@ text
 ## 🖼️ Demo
 
 ### Login Screen
-![Login Screen](docs/screenshots/login.png)
+![Login Screen](<img width="1916" height="864" alt="image" src="https://github.com/user-attachments/assets/3d9b10b4-c17d-4178-be1b-7544d6084692" />
+)
+
+![SignUp Screen](<img width="1913" height="860" alt="image" src="https://github.com/user-attachments/assets/51011c6c-2091-4885-81c0-5e141fe186a0" />
+
+)
 
 ### Main Interface
-![Main Interface](docs/screenshots/main.png)
-
-### Recording in Action
-![Recording](docs/screenshots/recording.png)
+![Main Interface](<img width="1919" height="870" alt="Screenshot 2025-12-25 115520" src="https://github.com/user-attachments/assets/25023ed0-8bea-4b10-b435-732e586b4a1b" />)
 
 ---
 
@@ -190,7 +194,6 @@ voice-to-text-app/
 ├── package.json
 └── README.md
 
-text
 
 ---
 
@@ -217,8 +220,6 @@ Adjust auto-stop settings in `src/services/audioCapture.ts`:
 silenceThreshold: 0.01, // Sensitivity (0.01 = 1%)
 silenceDuration: 2000, // Duration in ms (2 seconds)
 
-text
-
 ---
 
 ## 🌐 Deployment
@@ -228,19 +229,16 @@ text
 **Windows:**
 npm run tauri:build
 
-text
 Installer: `src-tauri/target/release/bundle/msi/`
 
 **macOS:**
 npm run tauri:build
 
-text
 App: `src-tauri/target/release/bundle/dmg/`
 
 **Linux:**
 npm run tauri:build
 
-text
 AppImage: `src-tauri/target/release/bundle/appimage/`
 
 ### Web Deployment (Optional)
