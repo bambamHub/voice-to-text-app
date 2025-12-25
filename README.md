@@ -1,4 +1,4 @@
-text
+
 # 🎤 Voice to Text - AI-Powered Transcription App
 <img width="1919" height="870" alt="Screenshot 2025-12-25 115520" src="https://github.com/user-attachments/assets/25023ed0-8bea-4b10-b435-732e586b4a1b" />
 
@@ -46,16 +46,16 @@ text
 
 ## 🖼️ Demo
 
+## 🖼️ Demo
+
 ### Login Screen
-![Login Screen](<img width="1916" height="864" alt="image" src="https://github.com/user-attachments/assets/3d9b10b4-c17d-4178-be1b-7544d6084692" />
-)
+<img src="https://github.com/user-attachments/assets/3d9b10b4-c17d-4178-be1b-7544d6084692" width="100%" />
 
-![SignUp Screen](<img width="1913" height="860" alt="image" src="https://github.com/user-attachments/assets/51011c6c-2091-4885-81c0-5e141fe186a0" />
-
-)
+### SignUp Screen
+<img src="https://github.com/user-attachments/assets/51011c6c-2091-4885-81c0-5e141fe186a0" width="100%" />
 
 ### Main Interface
-![Main Interface](<img width="1919" height="870" alt="Screenshot 2025-12-25 115520" src="https://github.com/user-attachments/assets/25023ed0-8bea-4b10-b435-732e586b4a1b" />)
+<img src="https://github.com/user-attachments/assets/25023ed0-8bea-4b10-b435-732e586b4a1b" width="100%" />
 
 ---
 
