@@ -253,7 +253,6 @@ text
 npm run build
 
 Upload 'dist' folder to Netlify
-text
 
 ⚠️ **Note**: Microphone access requires HTTPS in production
 
